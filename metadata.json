@@ -1,0 +1,5 @@
+{
+  "name": "SoundCloud Audio Analyzer",
+  "description": "An application that analyzes uploaded audio tracks and generates SoundCloud tags, genre, an SEO-optimized description, and a cover image using the Gemini API.",
+  "requestFramePermissions": []
+}
